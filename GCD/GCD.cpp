@@ -9,6 +9,5 @@ int gcd(int a, int b){
 }
 
 int main(){
-	//cout<<gcd(5,10)<<endl;
 	return 0;
 }
